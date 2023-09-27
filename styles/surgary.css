@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  background-color: black;
+  
+  
+}
+
+#Abous{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+}
+
+  
+  
+
+
+
